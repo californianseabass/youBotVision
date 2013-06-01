@@ -1,0 +1,2 @@
+export OPENNI2_INCLUDE=/home/seabass/OpenNI-2.1.0/Include
+export OPENNI2_REDIST=/home/seabass/OpenNI-2.1.0/Redist
